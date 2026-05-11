@@ -1,4 +1,4 @@
-DROP TABLE IF EXISTS silver.customers
+DROP TABLE IF EXISTS silver.customers;
 
 CREATE TABLE silver.customers AS
 SELECT 
